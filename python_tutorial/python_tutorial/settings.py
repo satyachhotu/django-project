@@ -25,7 +25,7 @@ SECRET_KEY = '_=nvk8c_&nlte*yib)yofvgxt09#=9-cj8(y_f-*pmks09-*&('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0,0,0,0']
+ALLOWED_HOSTS = ['0,0,0,0','python-djago-1.herokuapp.com']
 
 
 # Application definition
